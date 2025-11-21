@@ -1,4 +1,5 @@
-#| ID DE CLIENTE  | Nombres        | Apellidos     | CORREOS                        |
+#Datos de clientes
+| ID DE CLIENTE  | Nombres        | Apellidos     | CORREOS                        |
 | -------------  | -------------  | ------------- | -----------------------------  |
 | 000001         | Jose           | Humberto      | josehumberto01@example.com     |
 | 000002         | Juan           | Rodríguez     | juanrodríguez08@example.com    |
