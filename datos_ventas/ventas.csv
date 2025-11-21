@@ -1,1 +1,7 @@
-
+| ID Producto    | Producto       | cantidad      | Precios                        |
+| -------------  | -------------  | ------------- | -----------------------------  |
+| 123            | teclado        | 1             | 11     |
+| 491            | laptop         | 2             | juanrodríguez08@example.com    |
+| 0001100        | Lector de cd   | 3             | mariacasilla04@example.com     |
+| 020003         | Camara         | 4             | jacintacifuentes@example.com   |
+| 003124         | Cable auxiliar | 5             | dianaramon@example.com         |
