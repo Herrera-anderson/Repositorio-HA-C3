@@ -1,5 +1,4 @@
-**# Datos de clientes**
-
+# Datos de clientes
 | ID DE CLIENTE | Nombres | Apellidos | CORREOS |
 |---------------|----------|-----------|----------------------------------------|
 | 000001        | Jose     | Humberto  | josehumberto01@example.com             |
@@ -7,14 +6,3 @@
 | 000003        | Maria    | Casilla   | mariacasilla04@example.com             |
 | 000004        | Jacinta  | Cifuentes | jacintacifuentes@example.com           |
 | 000005        | Diana    | Ramon     | dianaramon@example.com                 |
-
-
-
-
-
-
-
-
-
-
-
